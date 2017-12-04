@@ -1,0 +1,9 @@
+lxml
+requests
+numpy
+bokeh
+scipy
+pandas
+holoviews
+matplotlib
+pyparsing
